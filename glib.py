@@ -1,6 +1,3 @@
-
-
-
 class ClassName(object):
     """docstring for ."""
 
